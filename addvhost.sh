@@ -21,8 +21,8 @@ OPÇÕES:
 case "$1" in
 
 	-c | --criar)
-		echo -e "Digite o FQDN: "
-		read $FQDN
+		echo -e "Digite a url: "
+		read $URL
 		echo -e "Digite o path para aplicacao: "
 		read $FILE_PATH
 		echo -n "<VirtualHost *:80> \
