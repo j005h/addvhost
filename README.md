@@ -1,1 +1,1 @@
-## Script for update file vhost in webservers
+# Script for update file vhost in webservers
