@@ -1,6 +1,5 @@
 #!/bin/bash
-# Script para atualizaçao, busca e criaçao de vhost
-# Feito por j005h 23/05/2007
+# Script para atualizacao, busca e criaçao de vhost
 
 
 VHOST_DIR=/home/v0id/
